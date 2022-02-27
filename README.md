@@ -2,7 +2,7 @@
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="220">
 
 <!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrikant/)](https://www.linkedin.com/in/none/)
@@ -44,27 +44,26 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </table> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixv54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/>
 
-<table cellpadding="0%" cellspacing="0%" border="0" align="center">
+<!-- <table cellpadding="0%" cellspacing="0%" border="0" align="center">
     <tr cellpadding="0%" cellspacing="0%" border="0">
-        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="center" width="200" height="200">
-        <img style="border-radius:50%" src="/comp.png" title="Shrikant"/>
+        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="center">
+        <img style="border-radius:50%" src="/comp.png" title="Shrikant" height="300"/>
         </td>
-        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="justify">
-        <p>Software Engineer | Designer | Developer                                                                                 </p>
+        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none;width:100%" align="justify">
+        <p>Software Engineer | Designer | Developer </p>
         <p></p>
         <p>Feel Free to mess around.</p>
-        <!-- <p>Student</p>
-        <p>Student</p> -->
+        <p>Student</p>
         </td>
     </tr>
-</table>
+</table> -->
 
 # 
 <!-- <div align="center">
 Feel Free to mess around.
 </div> -->
 
-------------
+<!-- ------------ -->
 
 ## :hammer_and_wrench: Languages and Tools :
 <img style="border-radius:50%" src="/dp.png" title="Shrikant" align="right" height="120"/>
