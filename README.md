@@ -66,7 +66,7 @@ Feel Free to mess around.
 
 ------------
 
-<img style="border-radius:50%" src="/dp.png" title="Shrikant" align="right"/>
+<img style="border-radius:50%" src="/dp.png" title="Shrikant" align="right" height="120"/>
 <div align="left">
   ## :hammer_and_wrench: Languages and Tools :
 
@@ -82,6 +82,6 @@ Feel Free to mess around.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
 
