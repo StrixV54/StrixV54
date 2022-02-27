@@ -46,11 +46,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <table cellpadding="0%" cellspacing="0%" border="0" align="center">
     <tr cellpadding="0%" cellspacing="0%" border="0">
-        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="center">
-        <img style="border-radius:50%" src="/comp.png" title="Shrikant" height="300"/>
+        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="center" width="200" height="200">
+        <img style="border-radius:50%" src="/comp.png" title="Shrikant"/>
         </td>
         <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="justify">
-        <p>Software Engineer | Designer | Developer</p>
+        <p>Software Engineer | Designer | Developer                                                                                 </p>
         <p></p>
         <p>Feel Free to mess around.</p>
         <!-- <p>Student</p>
