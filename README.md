@@ -42,7 +42,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
         </td>
     </tr>
 </table> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixv54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixv54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/>
 
 <!-- <table cellpadding="0%" cellspacing="0%" border="0" align="center">
     <tr cellpadding="0%" cellspacing="0%" border="0">
