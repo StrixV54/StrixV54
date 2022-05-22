@@ -11,7 +11,7 @@
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="228">
 </div>
 
-## 🛠️ My favorite tools
+## 🛠️ Known tools
 
 ### 👨‍💻 Programming and markup languages
 
