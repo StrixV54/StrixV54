@@ -2,6 +2,7 @@
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 
 #### I'm a tech enthusiast who loves to learn about new things. Connect with me on Github.
+
 <br>
 <!-- 
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixv54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/> -->
@@ -53,7 +54,8 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <!--     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a> -->
 <!--     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a> -->
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    </a>
 <!--     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a> -->
@@ -115,15 +117,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
-<!-- 
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrikant/)](https://www.linkedin.com/in/none/)
 [![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4605f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shrikant/)](https://www.instagram.com/none/)
 [![Website Badge](https://img.shields.io/badge/-jayraj.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://strixv54.netlify.com/)](https://strixv54.netlify.com/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shrikantvk54)](mailto:none) -->
 
 <!-- ## ⚡ Tech Area:
-- C++, Java, Python 
+- C++, Java, Python
 - Web Development -->
 
 ### 👨‍💻 Stats :
@@ -154,7 +155,6 @@
     </tr> -->
 </table>
 
-
 <!-- <table cellpadding="0%" cellspacing="0%" border="0" align="center">
     <tr cellpadding="0%" cellspacing="0%" border="0">
         <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="center">
@@ -169,10 +169,10 @@
     </tr>
 </table> -->
 
-# 
+#
+
 <div align="center">
 Feel Free to mess around.
 </div>
 
 <!-- ------------ -->
-
