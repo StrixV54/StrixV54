@@ -16,7 +16,7 @@
 <div align='center'>
 <img src='https://media.giphy.com/media/TvLuZ00OIADoQ/giphy.gif' width="220"> &nbsp; &nbsp;  
 <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width="165"> &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixv54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrixV54&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/>
 </div>
 
 <!-- <table cellpadding="0%" cellspacing="0%" border="0" align="center">
