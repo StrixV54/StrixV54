@@ -37,7 +37,7 @@
 
 <div align="center">
 
-Visit here -> [strixv54.netlify.com](https://strixv54.netlify.com) and  feel free to mess around my github repos.
+Visit here -> [shrikantvk.in](https://shrikantvk.in/) and  feel free to mess around my github repos.
 </div>
 
 <!-- ------------ -->
